@@ -13,7 +13,7 @@ export default function Footer() {
         <div className="flex flex-col justify-between gap-20 text-xl lg:text-4xl lg:flex-row">
           <div className="flex flex-col items-center justify-center gap-5">
             <h2 className="text-4xl lg:text-5xl">Whatsapp</h2>
-            <p className="font-bold">7602013398</p>
+            <p className="font-bold">+91 76020*****</p>
           </div>
           <div className="flex flex-col items-center justify-center gap-5">
             <h2 className="text-4xl lg:text-5xl">Email</h2>
